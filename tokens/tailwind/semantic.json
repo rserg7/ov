@@ -1,0 +1,27 @@
+{
+  "colors": {
+      "primary": "{primitives.color-primary-500}",
+      "primary-contrast": "{primitives.color-white}",
+      "primary-emphasis": "{primitives.color-primary-900}",
+      "surface-0": "{primitives.color-surface-0}",
+      "surface-50": "{primitives.color-surface-50}",
+      "surface-100": "{primitives.color-surface-100}",
+      "surface-500": "{primitives.color-surface-500}",
+      "surface-900": "{primitives.color-surface-900}",
+      "border-surface": "{primitives.color-surface-100}",
+      "bg-emphasis": "{primitives.color-surface-900}",
+      "bg-highlight": "{primitives.color-surface-50}",
+      "bg-highlight-emphasis": "{primitives.color-surface-100}",
+      "text-color": "{primitives.color-surface-900}",
+      "text-color-emphasis": "{primitives.color-primary-500}",
+      "text-muted-color": "{primitives.color-surface-500}",
+      "text-muted-color-emphasis": "{primitives.color-surface-900}"
+  },
+  "borderRadius": {
+      "none": "{primitives.border-radius-none}",
+      "sm": "{primitives.border-radius-sm}",
+      "md": "{primitives.border-radius-md}",
+      "lg": "{primitives.border-radius-lg}",
+      "full": "{primitives.border-radius-full}"
+  }
+}
