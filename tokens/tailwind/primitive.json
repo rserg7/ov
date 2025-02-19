@@ -1,0 +1,18 @@
+{
+    "color-primary-50": "#EFF6FF",
+    "color-primary-100": "#DBEAFE",
+    "color-primary-500": "#3B82F6",
+    "color-primary-900": "#1E3A8A",
+    "color-surface-0": "#FFFFFF",
+    "color-surface-50": "#F9FAFB",
+    "color-surface-100": "#F3F4F6",
+    "color-surface-500": "#6B7280",
+    "color-surface-900": "#111827",
+    "color-white": "#FFFFFF",
+    "color-black": "#000000",
+    "border-radius-none": "0px",
+    "border-radius-sm": "4px",
+    "border-radius-md": "8px",
+    "border-radius-lg": "16px",
+    "border-radius-full": "9999px"
+}
